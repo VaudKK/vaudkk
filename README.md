@@ -9,7 +9,7 @@
 ### Languages and tools ⚙️
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 <p>
-<img src="https://worldvectorlogo.com/logos/c-1.svg" alt="C Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/java.svg" alt="Java Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogos.com/logo/go-8.svg" alt="GoLang Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" width="50" height="50"/>
+<img src="https://worldvectorlogo.com/logos/c-1.svg" alt="C Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/java.svg" alt="Java Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogos.com/logos/go-8.svg" alt="GoLang Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" width="50" height="50"/>
 </p>
 
 
